@@ -1,0 +1,2 @@
+package com.crud.repository;public interface StudentRepository {
+}
